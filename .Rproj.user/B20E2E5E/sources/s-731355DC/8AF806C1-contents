@@ -6,6 +6,7 @@ Version: 0.1.0
 Author: Prakash Pradhan & Shamik Guchhait (2019)
 Maintainer: Prakash Pradhan <shresthambj@gmail.com>
 Description: the index would delineate how much feed can be replaced in the diet of bovines and cattles so that milk production is optimal and health of the bovines and cattles are not compromised. The year of package publication is 2019.
+URL: https://github.com/PradhanP-R/tolindex.git
 License: GPL
 Encoding: UTF-8
 LazyData: true
