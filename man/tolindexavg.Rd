@@ -2,7 +2,7 @@
 % Please edit documentation in R/tolindexavg.R
 \name{tolindexavg}
 \alias{tolindexavg}
-\title{Calculates feed tolerance index}
+\title{Calculates feed (replacement) tolerance index}
 \usage{
 tolindexavg(x, y)
 }

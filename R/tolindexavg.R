@@ -1,4 +1,4 @@
-#' Calculates feed tolerance index
+#' Calculates feed (replacement) tolerance index
 #' @param x value of tolindex calculated stepwise
 #' @param y value of tolindex calculated with respect to control
 #' @author Prakash Pradhan and Shamik Guchhait

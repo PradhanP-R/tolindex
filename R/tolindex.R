@@ -1,4 +1,4 @@
-#' Calculates feed tolerance index
+#' Calculates feed (replacement) tolerance index
 #' @param a sum of difference of milk output of treatment percent x1 with respect to control
 #' @param d class proportion: number of samples in x1 and thereof showing decrease in milk production/total samples studied
 #' @param i class proportion: number of samples in x1 and thereof showing increase in milk production/total samples studied

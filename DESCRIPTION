@@ -1,6 +1,6 @@
 Package: tolindex
 Type: Package
-Title: Calculation of feed tolerance index
+Title: Calculation of feed (replacement) tolerance index
 Year: 2019
 Version: 0.1.0
 Author: Prakash Pradhan & Shamik Guchhait (2019)

@@ -2,7 +2,7 @@
 % Please edit documentation in R/tolindex.R
 \name{tolindex}
 \alias{tolindex}
-\title{Calculates feed tolerance index}
+\title{Calculates feed (replacement) tolerance index}
 \usage{
 tolindex(a, d, i, p, n)
 }
